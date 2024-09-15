@@ -1,6 +1,5 @@
 // Constants/variables:
 const int sensorPin = A0;
-const float baselineTemp = 20.0;
 float voltage = 0;
 float temperature = 0;
 
