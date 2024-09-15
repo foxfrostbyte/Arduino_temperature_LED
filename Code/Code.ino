@@ -39,7 +39,7 @@ void loop() {
   }
 
   else if (temperature >= 26.0) {
-    Serial.println("High temperature!");
+    Serial.print("High temperature!");
     digitalWrite(2, LOW);
     digitalWrite(3, LOW);
     digitalWrite(4, HIGH);
