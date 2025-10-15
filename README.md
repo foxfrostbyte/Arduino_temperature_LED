@@ -1,5 +1,5 @@
 # Arduino_temperature_LED
-En litt mer kompleks krets som måler romtemperatur og gir lys for å si om temperaturen er kald, normal eller varm.
+En krets som måler romtemperatur og gir lys for å si om temperaturen er kald, normal eller varm.
 
 Utstyr brukt: Arduino UNO, Arduino IDE, kretsbrett, TMP36, 3 stk resistors (200 ohm), 3 dioder med ulike farger, og 8 ledninger.
 
